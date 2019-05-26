@@ -1,0 +1,27 @@
+.lobby-text1 p {
+	font-size: 25px;
+	color: #000;
+	text-transform: uppercase;
+}
+
+.lobby-text1 {
+	padding-bottom: 14px;
+    border-bottom: 1px solid #98cc00;
+  }
+
+.lobby-text1_2 p {
+	font-size: 25px;
+	color: #000;
+	text-transform: uppercase;
+}
+
+
+.lobby-text1_2  {
+	padding-bottom: 14px;
+    border-bottom: 1px solid #98cc00;
+}
+
+.spec-content {
+	margin-top: 50px;
+}
+

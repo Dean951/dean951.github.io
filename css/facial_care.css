@@ -1,0 +1,61 @@
+.second-section {
+    background-image: url(../img/face.jpg);
+    height: 578px;
+}
+
+.second-section .all-inclusive {
+	max-width: 700px;
+	font-size: 24px;
+	color: #fff;
+	margin-top: 61px;
+}
+
+.tittle {
+	margin-top: 103px;
+	margin-bottom: 70px;
+}
+.services_face .restaurants {
+	font-size: 45px;
+	color: #24243c;
+}
+
+.cosmetic-mask2 {
+	height: 223px;
+	width: 533px;
+	border: 1px solid #cccccc;
+	border-top: none;
+	margin-top: -5px;
+}
+
+.cosmetic-mask-p {
+	padding: 29px;
+}
+
+.cosmetic-mask-p1 {
+	font-size: 20px;
+	color: #252525;
+}
+
+.cosmetic-mask-p2 {
+	font-size: 16px;
+	color: #5d5c5c;
+	margin-top: 18px;
+}
+
+.cosmetic-mask-b {
+	display: flex;
+	align-items: center;
+	margin-top: 28px;
+}
+
+.spec-more a{
+ 	color: #000;
+    padding: 15px 80px;
+    cursor: pointer;
+}
+
+.mask1 {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 70px;
+}

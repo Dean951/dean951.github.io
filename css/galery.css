@@ -1,0 +1,55 @@
+.gallery {
+	margin-top: 110px;
+}
+.gallery-title1 {
+	font-size: 68px;
+	color: #333366;
+}
+
+.gallery-title2 {
+	font-size: 24px;
+	color: #333333;
+	margin-top: 47px;
+}
+
+.gallery-title {
+	text-align: left;
+    max-width: 710px;
+    margin: auto;	
+}
+.gallery-photo {
+	max-width: 1141px;
+	margin-top: 106px;
+}
+
+.gallery-photo p {
+	text-align: center;
+    position: relative;
+    bottom: 238px;
+    color: #fff;
+    font-size: 30px;
+}
+
+.gallery-photo img {
+	height: 439px;
+	width: 556px;
+}
+
+.gallery-photo1 {
+	margin-bottom: -15px;
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.gallery-photo2 {
+	margin-bottom: -15px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.gallery-photo3 {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 40px;
+}
