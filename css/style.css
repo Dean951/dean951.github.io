@@ -1167,7 +1167,7 @@ section.block_1 img{
 	border: none;
 	position: absolute;
 	bottom: 20px;
-	z-index: 2;
+	z-index: 1;
 	cursor: pointer;
 
 }

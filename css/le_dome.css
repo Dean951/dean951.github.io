@@ -1,0 +1,63 @@
+.second-section  {
+	background-image: url(../img/wallpaper-le-dome.jpg);
+	height: 577px;
+}
+
+.second-section::after {
+   background: rgba(37, 3, 61, 0.65);
+}
+
+.tittle-dome {
+	margin-top: 49px;
+    margin-bottom: -20px;
+}
+
+.tittle-dome .border-b {
+    width: 79px;
+    display: inline-block;
+    border-bottom: 4px solid #cccc00;
+}
+
+.square {
+	max-width: 300px;
+	display: flex;
+	font-size: 18px;
+	justify-content: space-between;
+}
+
+.square1 {
+	color: #000;
+}
+
+.square2 {
+	font-family: serif;
+    color: #302f2f;
+}
+
+.capacity-full {
+	display: flex;
+    justify-content: flex-end;
+    margin-top: 70px;
+}
+
+.lobby-text-section {
+	width: 539px;
+}
+.lobby-section {
+	height: 433px;
+    width: 678px;
+    display: flex;
+    justify-content: center;
+}
+
+.lobby-text-section1 {
+	font-size: 24px;
+    color: #3a3939;
+}
+
+.lobby-text-section2 {
+	font-size: 24px;
+    color: #5d5c5c;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

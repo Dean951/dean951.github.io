@@ -269,6 +269,9 @@
       <replace>src=&quot;img/</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -295,12 +298,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="985" />
     <option name="y" value="25" />
     <option name="width" value="935" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -372,18 +376,18 @@
       <option name="presentableId" value="Default" />
       <updated>1558765572427</updated>
       <workItem from="1558765573612" duration="5234000" />
-      <workItem from="1558853352156" duration="35938000" />
+      <workItem from="1558853352156" duration="36360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41172000" />
+    <option name="totallyTimeSpent" value="41594000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="25" width="1869" height="1055" extended-state="6" />
+    <frame x="985" y="25" width="935" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.110754415" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22139038" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

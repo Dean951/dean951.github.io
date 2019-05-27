@@ -1,0 +1,28 @@
+.second-section {
+    background-image: url(../img/wallpaper-sport.jpg);
+    height: 646px;
+}
+
+.second-section .hello {
+	margin-top: 0;
+}
+.lobby-text {
+	width: 292px;
+}
+
+footer {
+	margin-top: 107px;
+}
+
+.lobby-img img {
+    height: 402px;
+    /*width: 653px;*/
+}
+
+.lobby-img2 {
+	left: 496px;
+}
+
+.services_face {
+	margin-top: -60px;
+}
