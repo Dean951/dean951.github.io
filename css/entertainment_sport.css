@@ -16,7 +16,6 @@ footer {
 
 .lobby-img img {
     height: 402px;
-    /*width: 653px;*/
 }
 
 .lobby-img2 {
@@ -25,4 +24,11 @@ footer {
 
 .services_face {
 	margin-top: -60px;
+}
+
+@media (max-width: 768px) {
+	.second-section .all-inclusive {
+		padding: 20px;
+		font-size: 20px;
+	}
 }

@@ -25,3 +25,9 @@
 	margin-top: 50px;
 }
 
+@media (max-width: 768px) {
+	.second-section .all-inclusive {
+		padding: 20px;
+		font-size: 20px;
+	}
+}

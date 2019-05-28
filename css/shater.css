@@ -2,3 +2,41 @@
 	background-image: url(../img/wallpaper-shater.jpg);
 	height: 577px;
 }
+
+@media (max-width: 1135px) {
+	.capacity-full {
+		flex-direction: column;
+    	align-items: center;
+	}
+	.lobby-text-section {
+		display: flex;
+    	flex-direction: column;
+    	align-items: center;
+	}
+}
+
+
+@media (max-width: 666px) {
+	.restaurants {
+		font-size: 35px;
+	}
+}
+
+@media (max-width: 558px) {
+	.lobby-section {
+		width: 100%;
+    	height: 100%;
+	}
+	.capacity {
+		display: none;
+	}
+}
+
+@media (max-width: 370px){
+    .second-section .hello {
+        font-size: 25px;
+    }
+    .container-footer-3 {
+        display: none;
+    }
+}

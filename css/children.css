@@ -148,3 +148,87 @@
 	width: 380px;
 	line-height: 1.3;
 }
+
+@media (max-width: 1440px) {
+	.lobby {
+		flex-direction: column;
+    	align-items: center;
+	}
+	.lobby-img img {
+		left: 0;
+	}
+	.lobby .lobby1 {
+		position: unset;
+	}
+	.lobby-two {
+		flex-direction: column;
+    	align-items: center;
+	}
+	.lobby-img2 {
+		right: 0;
+	}
+	.lobby-two .lobby1_2 {
+		position: unset;
+	}
+
+}
+
+@media (max-width: 1379px) {
+	.second-section .hello	{
+	font-size: 60px;
+	}
+}
+
+@media (max-width: 1112px) {
+	.second-section .hello	{
+	font-size: 45px;
+	}
+}
+
+@media (max-width: 632px) {
+	.second-section .hello	{
+	font-size: 38px;
+	}
+}
+
+@media (max-width: 987px ) {
+	.lobby-img2 img {
+		width: 100%;
+		height: auto;
+	}
+	.lobby-img img {
+		width: 100%;
+		height: auto;
+	}
+	.lobby-img2 {
+		width: 100%;
+    	height: 100%;
+	}
+}
+
+@media (max-width: 689px ) {
+	.lobby1_2 {
+		border: none;
+	}
+	.lobby .lobby1 {
+		border: none;
+	}
+
+	.second-section .hello {
+		padding: 20px;
+	}
+
+	.benefits {
+		padding: 20px;
+	}
+
+	.benefits2 {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 386px ) {
+	.services_face .restaurants {
+		font-size: 35px;
+	}
+}

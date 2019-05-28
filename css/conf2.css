@@ -1,0 +1,58 @@
+
+@media (max-width: 1024px) {
+	.first_header h1 {
+		font-size: 50px;
+	}
+
+	.hole_items .item .title {
+		font-size: 18px;
+	}
+
+	.hole_items .item {
+		margin-bottom: 50px;
+	}
+
+	section.block_1 {
+		margin-bottom: 90px;
+	}
+}
+
+@media (max-width: 768px) {
+	.first_header h1 {
+		font-size: 32px;
+	}
+
+	.block_2 h2 {
+		font-size: 32px;
+	}
+
+	.hole_items .item {
+		max-width: 100%;
+  }
+  
+  .first_header.third-section .text_fly p {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+	.block_2 h2 {
+		font-size: 25px;
+	}
+
+  .radio {
+    margin-right: 20px;
+  }
+
+  .first_header.third-section .text_fly p {
+    font-size: 20px;
+  }
+
+  .tog .price span {
+    font-size: 18px;
+  }
+
+  .hole_items .br {
+    min-width: 50%;
+  }
+}

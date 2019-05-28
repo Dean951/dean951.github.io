@@ -21,7 +21,7 @@
 
 .cosmetic-mask2 {
 	height: 223px;
-	width: 533px;
+	max-width: 533px;
 	border: 1px solid #cccccc;
 	border-top: none;
 	margin-top: -5px;
@@ -58,4 +58,47 @@
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 70px;
+}
+
+@media (max-width: 1110px){
+	.mask1 {
+		flex-direction: column;
+		align-items: center;
+	}
+	.tittle {
+		text-align: center;
+	}
+}
+
+@media (max-width: 768px) {
+	.second-section .all-inclusive {
+		padding: 16px;
+	}
+}
+
+@media (max-width: 566px) {
+	.cosmetic-mask-b {
+		flex-direction: column;
+	}
+	.cosmetic-mask-p1 {
+		text-align: center;
+	}
+	.cosmetic-mask-p2 {
+		text-align: center;
+	}
+	.cosmetic-mask1 img {
+		width: 100%;
+	}
+
+	.spec-more {
+		display: none;
+	}
+}
+@media (max-width: 480px) {
+	.second-section .all-inclusive {
+		font-size: 20px;
+	}
+	.cosmetic-mask2 {
+		border: none;
+	}
 }

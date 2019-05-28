@@ -59,3 +59,87 @@
 	justify-content: space-between;
 	margin-bottom: 40px;
 }
+
+@media (max-width: 1142px) {
+	.gallery-photo .gallery-photo1 {
+		flex-direction: column;
+	}
+	.photographer img {
+		width: 100%;
+   		height: auto;
+	}
+	.music-colect img {
+		width: 100%;
+   		height: auto;
+	}
+
+	.gallery-photo .gallery-photo2 {
+		flex-direction: column;
+	}
+	.showrunner img {
+		width: 100%;
+   		height: auto;
+	}
+	.photo-spa img {
+		width: 100%;
+   		height: auto;
+	}
+
+	.gallery-photo .gallery-photo3 {
+		flex-direction: column;
+	}
+	.show-balet img {
+		width: 100%;
+   		height: auto;
+	}
+	.stars img {
+		width: 100%;
+   		height: auto;
+	}
+
+	.gallery-photo .gallery-photo4 {
+		flex-direction: column;
+	}
+	.folklor img {
+		width: 100%;
+   		height: auto;
+	}
+	.styling img {
+		width: 100%;
+   		height: auto;
+	}
+}
+
+@media (max-width: 714px) {
+	.gallery-title {
+		max-width: 560px;
+	}
+}
+
+@media (max-width: 514px) {
+	.gallery-photo {
+		max-width: 399px;
+	}
+}
+
+@media (max-width: 566px) {
+	.gallery-title1 {
+		font-size: 47px;
+	}
+	.gallery-title2 {
+		font-size: 16px;
+	}
+}
+
+@media (max-width: 346px) {
+	.gallery-photo p {
+		font-size: 18px;
+		bottom: 168px;
+	}
+}
+
+@media (max-width: 334px) {
+	.gallery-title1 {
+		font-size: 40px;
+	}
+}

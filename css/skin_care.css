@@ -52,7 +52,7 @@
 .lobby-img img {
 	position: relative;
     height: 402px;
-    width: 617px;
+    max-width: 617px;
     z-index: 1;
     right: 534px;
 }
@@ -100,7 +100,7 @@
 .lobby-img2 {
 	position: relative;
     height: 402px;
-    width: 617px;
+    max-width: 617px;
     z-index: 1;
     left: 534px;
 }
@@ -121,4 +121,11 @@
 	font-size: 16px;
 	color: #5d5c5c;
 	margin-top: 25px;
+}
+
+@media (max-width: 768px) {
+	.second-section .all-inclusive {
+		padding: 20px;
+		font-size: 20px;
+	}
 }

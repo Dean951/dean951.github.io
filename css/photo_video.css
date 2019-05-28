@@ -19,3 +19,64 @@
 .photograph-title2 {
     color: #838080;
 }
+
+@media(max-width: 1248px) {
+    .second-section .hello {
+        font-size: 62px;
+    }
+}
+
+@media(max-width: 1128px) {
+    .second-section .hello {
+        font-size: 50px;
+    }
+}
+
+@media(max-width: 868px) {
+    .second-section .hello {
+        font-size: 40px;
+    }
+}
+
+@media(max-width: 684px) {
+    .second-section .hello {
+        font-size: 30px;
+    }
+}
+
+@media(max-width: 496px) {
+    .second-section .hello {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 1396px) {   
+    .photograph-title{
+        max-width: 855px;
+    }
+}
+
+@media(max-width: 1232px) {   
+    .photograph-title{
+        max-width: 711px;
+    }
+}
+
+@media(max-width: 1020px) {   
+    .photograph-title{
+        max-width: 520px;
+    }
+}
+
+@media(max-width: 744px) {   
+    .photograph-title{
+        max-width: 320px;
+    }
+}
+
+@media(max-width: 460px) {   
+    .photograph-title{
+        max-width: initial;
+        margin: 50px;
+    }
+}
