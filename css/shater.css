@@ -3,6 +3,14 @@
 	height: 577px;
 }
 
+.fourth-section {
+    height: initial;
+}
+
+.tittle {
+	margin-top: 50px;
+}
+
 @media (max-width: 1135px) {
 	.capacity-full {
 		flex-direction: column;

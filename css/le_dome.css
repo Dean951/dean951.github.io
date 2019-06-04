@@ -7,6 +7,10 @@
    background: rgba(37, 3, 61, 0.65);
 }
 
+.fourth-section {
+    height: initial;
+}
+
 .tittle-dome {
 	margin-top: 49px;
     margin-bottom: -20px;

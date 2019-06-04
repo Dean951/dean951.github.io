@@ -491,20 +491,19 @@ header {
 	font-size: 25px;
 	color: #24243c;
 	margin-bottom: 17px;
-    margin-right: 159px;
 }
 
 .restaurants-2 .border-bottom {
 	width: 400px;
 	display: inline-block;
 	border-bottom: 1px solid #cccc00;
+	margin-left: -35px;
 }
 
 .restaurants-2 .restaurants-tittle {
 	width: 300px;
 	display: flex;
     flex-direction: column;
-    align-items: center;
     margin-bottom: 26px;
 }
 
