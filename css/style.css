@@ -131,7 +131,6 @@ header {
 	background-color: #7738b6;
 	top: 213px;
 	left: 0;
-	transition: top 1s ease-out 0.5s;
 	display: none;
 	width: 261px;
 	padding: 20px 0;
@@ -266,7 +265,6 @@ header {
 .headhesive--stick .side-menu{
 	left: -83px;
 	top: 79px;
-	transition: none;
 }
 
 .headhesive--stick .sport{
@@ -864,7 +862,6 @@ header {
 -------------------------------------------------------
 -------------------------------------------------------*/
 footer {
-	min-height: 443px;
 	background-color: #7738b6;
 	color: #fff;
 	padding: 30px 0;
@@ -1024,6 +1021,12 @@ footer {
 
 	.container-footer-3 {
 		margin: 70px 40px 0;
+	}
+}
+
+@media (max-width: 768px) {
+	.container-footer-3 {
+		margin: 0;
 	}
 }
 

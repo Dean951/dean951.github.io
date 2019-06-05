@@ -124,3 +124,7 @@ $('.slider_block').slick({
   fade: true,
   cssEase: 'linear'
 });
+
+window.onscroll = () => {
+  document.querySelector('.side-menu').classList.remove('open')
+}
