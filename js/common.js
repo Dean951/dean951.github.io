@@ -126,5 +126,7 @@ $('.slider_block').slick({
 });
 
 window.onscroll = () => {
-  document.querySelector('.side-menu').classList.remove('open')
+  document.querySelectorAll('.side-menu').forEach((el) => {
+    el.classList.remove('open')
+  })
 }
